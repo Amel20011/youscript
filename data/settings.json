@@ -1,0 +1,23 @@
+{
+  "botSettings": {
+    "autoReply": true,
+    "autoWelcome": true,
+    "autoGoodbye": true,
+    "antiSpam": true,
+    "antiToxic": true,
+    "backupInterval": 3600000
+  },
+  "storeSettings": {
+    "open": true,
+    "maintenance": false,
+    "orderLimit": 5,
+    "allowReseller": true,
+    "commissionRate": 10
+  },
+  "groupSettings": {
+    "maxGroups": 10,
+    "autoKickSpam": true,
+    "warnBeforeKick": true,
+    "maxWarnings": 3
+  }
+}
