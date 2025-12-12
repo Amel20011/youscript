@@ -1,0 +1,133 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ALIGHT MOTION PREMIUM",
+      "stock": 15,
+      "price": "15.000",
+      "description": "Aplikasi editing video premium dengan semua fitur unlocked",
+      "features": [
+        "No watermark",
+        "All premium effects",
+        "Export HD 4K",
+        "Lifetime access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "CANVA LIFETIME",
+      "stock": 7,
+      "price": "7.000",
+      "description": "Akun Canva Pro Lifetime dengan semua template premium",
+      "features": [
+        "All premium templates",
+        "Unlimited storage",
+        "Magic Resize",
+        "Background Remover"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "CANVA PRO",
+      "stock": 36,
+      "price": "36.000",
+      "description": "Akun Canva Pro 30 hari full access",
+      "features": [
+        "Team features",
+        "Brand kit",
+        "Content planner",
+        "Premium elements"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "CAPCUT PRO",
+      "stock": 180,
+      "price": "180.000",
+      "description": "CapCut Pro lifetime dengan efek premium",
+      "features": [
+        "All premium effects",
+        "No watermark",
+        "4K export",
+        "Cloud storage"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "CAPCUT PRO HEAD",
+      "stock": 17,
+      "price": "17.000",
+      "description": "CapCut Pro header/akun utama",
+      "features": [
+        "Account owner",
+        "Full control",
+        "Priority support"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "CHATGPT PLUS",
+      "stock": 19,
+      "price": "19.000",
+      "description": "Akun ChatGPT Plus 30 hari",
+      "features": [
+        "GPT-4 access",
+        "No limits",
+        "Plugins available",
+        "Web browsing"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "PICSART PRO",
+      "stock": 3,
+      "price": "3.000",
+      "description": "PicsArt Gold lifetime",
+      "features": [
+        "All filters unlocked",
+        "No ads",
+        "Premium stickers",
+        "AI tools"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "PRIME VIDEO",
+      "stock": 2,
+      "price": "2.000",
+      "description": "Akun Prime Video 30 hari",
+      "features": [
+        "All movies access",
+        "HD streaming",
+        "Multiple devices",
+        "Download offline"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "SCRIBD PREMIUM",
+      "stock": 3,
+      "price": "3.000",
+      "description": "Scribd Premium 30 hari",
+      "features": [
+        "Unlimited books",
+        "Audiobooks",
+        "Magazines",
+        "Documents"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "SPOTIFY PREMIUM",
+      "stock": 38,
+      "price": "38.000",
+      "description": "Spotify Premium 30 hari",
+      "features": [
+        "No ads",
+        "Download songs",
+        "High quality audio",
+        "Unlimited skips"
+      ]
+    }
+  ]
+}
