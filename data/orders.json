@@ -1,0 +1,9 @@
+{
+  "orders": [],
+  "statistics": {
+    "totalOrders": 0,
+    "completedOrders": 0,
+    "pendingOrders": 0,
+    "totalRevenue": 0
+  }
+}
