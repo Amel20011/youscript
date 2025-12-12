@@ -1,0 +1,16 @@
+{
+  "admins": [
+    {
+      "number": "13658700681@s.whatsapp.net",
+      "name": "Owner",
+      "level": "owner",
+      "permissions": ["all"]
+    }
+  ],
+  "permissions": {
+    "owner": ["all"],
+    "superadmin": ["broadcast", "addproduct", "editproduct", "vieworders", "managegroups"],
+    "admin": ["vieworders", "managegroups"],
+    "moderator": ["kick", "warn", "delete"]
+  }
+}
