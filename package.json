@@ -1,0 +1,22 @@
+{
+  "name": "bot-liviaa-aesthetic",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Store Liviaa Aesthetic",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.15.0",
+    "fs-extra": "^11.1.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["whatsapp-bot", "store-bot", "liviaa-aesthetic"],
+  "author": "Liviaa Aesthetic",
+  "license": "MIT"
+}
